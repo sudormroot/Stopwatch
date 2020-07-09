@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/stopwatch.icns</file>
+    </qresource>
+</RCC>
