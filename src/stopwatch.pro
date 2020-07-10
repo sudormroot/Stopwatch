@@ -12,7 +12,12 @@ macx: {
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Stopwatch
+macx: {
+    TARGET = Stopwatch
+}unix:!macx {
+    TARGET = stopwatch
+}
+
 TEMPLATE = app
 
 #QMAKE_LFLAGS = -static
