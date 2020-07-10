@@ -50,7 +50,8 @@ Dialog::Dialog(QWidget *parent) :
 
     QPalette pal;
     pal.setColor(QPalette::Base, Qt::gray);
-    pal.setColor(QPalette::Text, Qt::white);
+    //pal.setColor(QPalette::Text, Qt::white);
+    pal.setColor(QPalette::Text, Qt::black);
 
 
     ui->lineEdit->setPalette(pal);
