@@ -52,7 +52,9 @@ FORMS += \
     about.ui
 
 DISTFILES += \
-    images/stopwatch.icns
+    images/stopwatch.icns \
+    images/stopwatch.png \
+    images/stopwatch.svg
 
 RESOURCES += \
     resource.qrc

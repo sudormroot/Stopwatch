@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=Stopwatch
+Exec=stopwatch
+GenericName=Stopwatch
+Icon=stopwatch
+Keywords=Watch;Stopwatch
+Name=Stopwatch
+StartupNotify=true
+Type=Application
+Terminal=false
