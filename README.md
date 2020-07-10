@@ -4,9 +4,9 @@ A simple stopwatch designed for students. I wrote this app when I was preparing 
 
 # Screenshots
 
-![screenshot1](screenshots/1.jpg)
+![screenshot1](screenshots/1.png)
 
-![screenshot2](screenshots/2.jpg)
+![screenshot2](screenshots/2.png)
 
-![screenshot3](screenshots/3.jpg)
+![screenshot3](screenshots/3.png)
 
